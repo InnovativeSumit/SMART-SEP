@@ -77,7 +77,7 @@ The Smart Plastic Separation Car delivers impressive results in both accuracy an
 
 - **User Engagement:** The interactive web dashboard and audio feedback provide an intuitive interface that increases user control and awareness.
 
-## 🔮 Future Prospects
+# 🔮 Future Prospects
 
 The Smart Plastic Separation Car is continuously evolving. Upcoming enhancements include:
 
@@ -89,7 +89,7 @@ The Smart Plastic Separation Car is continuously evolving. Upcoming enhancements
 
 - **Cloud Integration:** Pushing real-time data to cloud platforms for centralized monitoring and large-scale deployment insights.
 
----
+
 
 # 🙏 Acknowledgments
 
