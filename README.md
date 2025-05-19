@@ -7,8 +7,8 @@ Here's a preview of the sidebar:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/38dbcf54-2977-4512-95ec-7307f432b24c" alt="Sidebar Screenshot 1" width="900" height="450" /></td>
-    <td><img src="" alt="Sidebar Screenshot 2" width="350" height="850" /></td>
+    <td><img src="https://github.com/user-attachments/assets/38dbcf54-2977-4512-95ec-7307f432b24c" alt="Sidebar Screenshot 1" width="1000" height="550" /></td>
+    <td><img src="https://github.com/user-attachments/assets/3c0a24f9-bf1d-48fd-993d-5a07eb22f242" alt="Sidebar Screenshot 2" width="1000" height="550" /></td>
   </tr>
 </table>
 
