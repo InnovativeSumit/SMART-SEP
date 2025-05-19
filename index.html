@@ -1,0 +1,116 @@
+<!-- MADE BY SUMIT -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SMART-SEP MAKE BY SUMIT</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="LOGO4.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,200,0,0" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- Audio Controls (from modern slider) -->
+  <div class="audio-controls">
+    <button id="audio-toggle">
+      <i class="fas fa-volume-up"></i>
+    </button>
+    <input type="range" id="volume-control" min="0" max="1" step="0.1" value="0.5">
+  </div>
+
+  <!-- Background particles -->
+  <div class="particles-background" id="particles-js"></div>
+
+  <div class="slider-container">
+    <!-- Slider List Items -->
+    <div class="slider-wrapper swiper-wrapper">
+      <!-- Replaced Slide 1 -->
+      <div class="slider-item swiper-slide">
+        <div class="slide-content">
+          <h2 class="slide-title">AI-POWERED PLASTIC SORTING</h2>
+          <h3 class="slide-subtitle">Advanced Imaging Solutions</h3>
+          <p class="slide-description">Discover our cutting-edge camera systems with unparalleled resolution and low-light performance for professional applications.</p>
+          <a href="https://drive.google.com/drive/folders/1jFcII08tcLyBnQkVxJLfvriUuUbjInlP?usp=sharing" class="slide-button" target="_blank">
+            <span>GET SOURCE FILES</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Remaining Slides (with updated buttons) -->
+      <div class="slider-item swiper-slide">
+        <div class="slide-content">
+          <h3 class="slide-subtitle">ROBOTIC PRECISION</h3>
+          <h2 class="slide-title">4-DOF ROBOTIC ARM FOR EFFICIENT WASTE PICKING!</h2>
+          <p class="slide-description">CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS.</p>
+          <a href="https://drive.google.com/drive/folders/1jFcII08tcLyBnQkVxJLfvriUuUbjInlP?usp=sharing" class="slide-button" target="_blank">
+            <span>GET SOURCE FILES</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="slider-item swiper-slide">
+        <div class="slide-content">
+          <h3 class="slide-subtitle">ECO-FRIENDLY TECH</h3>
+          <h2 class="slide-title">AUTOMATED WET/DRY PLASTIC SEPARATION SYSTEM!</h2>
+          <p class="slide-description">SOIL MOISTURE SENSORS DETECT WET PLASTICS, ENSURING PERFECT SORTING FOR RECYCLING.</p>
+          <a href="https://drive.google.com/drive/folders/1jFcII08tcLyBnQkVxJLfvriUuUbjInlP?usp=sharing" class="slide-button" target="_blank">
+            <span>GET SOURCE FILES</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="slider-item swiper-slide">
+        <div class="slide-content">
+          <h3 class="slide-subtitle">SMART MONITORING</h3>
+          <h2 class="slide-title">REAL-TIME GARBAGE LEVEL & TEMPERATURE TRACKING!</h2>
+          <p class="slide-description">ULTRASONIC SENSORS + DHT11 MONITOR FILL LEVELS AND ENVIRONMENTAL CONDITIONS, SENDING DATA VIA IOT.</p>
+          <a href="https://blynk.cloud/dashboard/449287/global/devices/1/organization/449287/devices/1489662/dashboard" target="_blank" class="slide-button">
+            <span>VIEW SITE</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="slider-item swiper-slide">
+        <div class="slide-content">
+          <h3 class="slide-subtitle">FUTURE OF WASTE MANAGEMENT</h3>
+          <h2 class="slide-title">BLUETOOTH-CONTROLLED, SELF-SORTING SMART CAR!</h2>
+          <p class="slide-description">A CUTTING-EDGE SOLUTION TO REDUCE LANDFILL WASTE AND BOOST RECYCLING EFFICIENCY.</p>
+          <a href="https://drive.google.com/drive/folders/1jFcII08tcLyBnQkVxJLfvriUuUbjInlP?usp=sharing" class="slide-button" target="_blank">
+            <span>GET SOURCE FILES </span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slider Pagination -->
+    <div class="slider-controls">
+      <ul class="slider-pagination">
+        <div class="slider-indicator"></div>
+        <li class="slider-tab current">AI-POWERED PLASTIC SORTING</li>
+        <li class="slider-tab">ROBOTIC ARM PRECISION</li>
+        <li class="slider-tab">WET/DRY SEPARATION PROCESS</li>
+        <li class="slider-tab">IOT GARBAGE MONITORING</li>
+        <li class="slider-tab">BLUETOOTH SMART CONTROL</li>
+      </ul>
+    </div>
+
+    <!-- Slider Navigation -->
+    <div class="slider-navigations">
+      <button id="slide-prev" class="material-symbols-rounded">arrow_left_alt</button>
+      <button id="slide-next" class="material-symbols-rounded">arrow_right_alt</button>
+    </div>
+  </div>
+
+ <audio id="background-audio" loop>
+  <source src="https://assets.mixkit.co/music/preview/mixkit-digital-dreams-131.mp3" type="audio/mpeg">
+</audio>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
