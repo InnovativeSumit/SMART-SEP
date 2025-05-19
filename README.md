@@ -77,6 +77,20 @@ The Smart Plastic Separation Car delivers impressive results in both accuracy an
 
 - **User Engagement:** The interactive web dashboard and audio feedback provide an intuitive interface that increases user control and awareness.
 
+## 🔮 Future Prospects
+
+The Smart Plastic Separation Car is continuously evolving. Upcoming enhancements include:
+
+- **GPS Module Integration:** Adding GPS support to enable real-time tracking, path mapping, and dynamic route planning for autonomous waste collection.
+
+- **Expanded Material Classification:** Training the system to detect and separate not just plastics, but also **metals**, enabling broader recycling capabilities.
+
+- **Smart Obstacle Avoidance:** Incorporating LIDAR or enhanced ultrasonic sensing for intelligent navigation in unpredictable environments.
+
+- **Cloud Integration:** Pushing real-time data to cloud platforms for centralized monitoring and large-scale deployment insights.
+
+---
+
 # 🙏 Acknowledgments
 
 Thanks to all open-source libraries, hardware manufacturers, and community contributors who made this project possible.
