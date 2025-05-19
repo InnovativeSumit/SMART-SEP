@@ -5,7 +5,7 @@ Welcome to the **SMART AI-BASE PLASTIC SORTING ROBOT** project — an innovative
 # Our Project Images
 
 
-## 🚀 Project Overview
+# 🚀 Project Overview
 
 The Smart Plastic Separation Car integrates multiple technologies to create an autonomous and intelligent waste management system. At its core, it uses an ESP32-CAM module paired with advanced machine learning algorithms to detect and classify plastics into dry and wet categories with high accuracy. The system is equipped with a 6-DOF (Degrees of Freedom) robotic arm controlled via servo motors that physically sorts plastics based on the AI classification.
 
@@ -15,7 +15,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 
 
-## 🔥 Features
+# 🔥 Features
 
 - **AI-Powered Plastic Detection:** Utilizes ESP32-CAM and a custom-trained machine learning model to accurately identify plastic types under different lighting and environmental conditions.
 
@@ -35,7 +35,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 
 
-## 🚦 Usage
+# 🚦 Usage
 
 To effectively operate the Smart Plastic Separation Car, follow these steps:
 
@@ -53,7 +53,7 @@ To effectively operate the Smart Plastic Separation Car, follow these steps:
 
 
 
-## 📈 Performance & Results
+# 📈 Performance & Results
 
 The Smart Plastic Separation Car delivers impressive results in both accuracy and operational efficiency:
 
@@ -69,7 +69,7 @@ The Smart Plastic Separation Car delivers impressive results in both accuracy an
 
 
 
-## 🌐 Visit  Site
+# 🌐 Visit  Site
 
 For a live demonstration, detailed project documentation, and to explore related resources, visit my website:
 
@@ -83,7 +83,7 @@ Stay updated with the latest developments, tutorials, and community discussions!
 
 
 
-## 🙏 Acknowledgments
+# 🙏 Acknowledgments
 
 Thanks to all open-source libraries, hardware manufacturers, and community contributors who made this project possible.
 
