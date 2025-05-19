@@ -2,7 +2,7 @@
 
 Welcome to the **SMART AI-BASE PLASTIC SORTING ROBOT** project — an innovative robotic system designed to revolutionize plastic waste management by combining artificial intelligence, IoT, and robotics. This project aims to automate the process of plastic sorting and environmental monitoring to promote efficient recycling and reduce manual labor.
 
-# Our Project Images
+# 🚀 Project Images
 
 
 # 🚀 Project Overview
@@ -86,6 +86,10 @@ Stay updated with the latest developments, tutorials, and community discussions!
 # 🙏 Acknowledgments
 
 Thanks to all open-source libraries, hardware manufacturers, and community contributors who made this project possible.
+
+ [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
+
+
 
 
 
