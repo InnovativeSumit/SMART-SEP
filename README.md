@@ -5,6 +5,16 @@ Welcome to the **SMART AI-BASE PLASTIC SORTING ROBOT** project — an innovative
 # 🚀 Project Images
 
 
+
+
+# 🌐 Visit  Site
+
+For a live demonstration, detailed project documentation, and to explore related resources, visit my website:
+
+[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
+
+
+
 # 🚀 Project Overview
 
 The Smart Plastic Separation Car integrates multiple technologies to create an autonomous and intelligent waste management system. At its core, it uses an ESP32-CAM module paired with advanced machine learning algorithms to detect and classify plastics into dry and wet categories with high accuracy. The system is equipped with a 6-DOF (Degrees of Freedom) robotic arm controlled via servo motors that physically sorts plastics based on the AI classification.
@@ -67,25 +77,11 @@ The Smart Plastic Separation Car delivers impressive results in both accuracy an
 
 - **User Engagement:** The interactive web dashboard and audio feedback provide an intuitive interface that increases user control and awareness.
 
-
-
-# 🌐 Visit  Site
-
-For a live demonstration, detailed project documentation, and to explore related resources, visit my website:
-
-[SMART-SEP](https://yourwebsite.com)
-
-Stay updated with the latest developments, tutorials, and community discussions!
-
-
-
-
-
-
-
 # 🙏 Acknowledgments
 
 Thanks to all open-source libraries, hardware manufacturers, and community contributors who made this project possible.
+
+Stay updated with the latest developments, tutorials, and community discussions!
 
  [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
 
