@@ -40,11 +40,11 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 | Feature | Preview |
 |---------|---------|
-| **🤖 AI Plastic Detection**<br>DISCOVER OUR CUTTING-EDGE CAMERA SYSTEMS WITH UNPARALLELED RESOLUTION AND LOW-LIGHT PERFORMANCE FOR PROFESSIONAL APPLICATIONS.| ![AI Detection](https://source.unsplash.com/random/800x450/?ai,camera,plastic) |
-| **🦾 Robotic Arm Automation**<br>CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS. | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
-| **🌡️ Bluetooth Controlled Car**<br>Live soil/temperature/proximity monitoring | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
-| **📱 BLYNK IOT integrations**<br>TRASONIC SENSORS + DHT11 MONITOR FILL LEVELS AND ENVIRONMENTAL CONDITIONS, SENDING DATA VIA IOT. | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
-| **🦾 Dry and wet Seperation System**<br>SOIL MOISTURE SENSORS DETECT WET PLASTICS, ENSURING PERFECT SORTING FOR RECYCLING.| ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
+| **🤖 AI PLASTICS DETECTIONS**<br>DISCOVER OUR CUTTING-EDGE CAMERA SYSTEMS WITH UNPARALLELED RESOLUTION AND LOW-LIGHT PERFORMANCE FOR PROFESSIONAL APPLICATIONS.| ![AI Detection](https://source.unsplash.com/random/800x450/?ai,camera,plastic) |
+| **🦾 4-DOF-ROBOTICS-ARM-AUTOMATIONS**<br>CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS. | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
+| **🌡️ BLUETOOTH CONTROLLED CAR**<br>BLUETOOTH-CONTROLLED, SELF-SORTING SMART CAR! | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
+| **📱 BLYNK IOT INTEGRATIONS**<br>TRASONIC SENSORS + DHT11 MONITOR FILL LEVELS AND ENVIRONMENTAL CONDITIONS, SENDING DATA VIA IOT. | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
+| **🦾 DRY & WET SEPERATIONS SYSTEMS**<br>SOIL MOISTURE SENSORS DETECT WET PLASTICS, ENSURING PERFECT SORTING FOR RECYCLING.| ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 
 
 # 🛠️ Hardware Components:-
@@ -70,7 +70,8 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 ## 🚗 **AI Plastic Detection**
 - **ESP32 CAM MODULE**  - 1 piece
-- **FTDI**  - 3 pieces  
+- **FTDI**  - 3 pieces
+- **OLED DISPLAY**  - 1 pieces 
 - **3.7 VOLT LION BATTERY**  - 2 piece
 - **BATTERY HOLDER**  - 1 piece
 - **USB CABLE**  - 1 piece
@@ -95,11 +96,34 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 
 ## 🔌 ** BLYNK IOT integrations**
-
-
+- **ESP32 MICROCONTROLLER MODULE**  - 1 piece
+- **HC-SR04 ULTRASONIC SENSORS**  - 2 piece
+- **DHT11 TEMP & HUMIDITY SENSORS**  - 1 piece
+- **3.7 VOLT LION BATTERY**  - 1 piece
+- **BATTERY HOLDER**  - 1 piece
+- **USB CABLE**  - 1 piece
+- **JUMPER WIRES**
+  - **MALE TO MALE**
+  - **MALE TO FEMALE**
+  - **FEMALE TO FEMALE**
 
 
 ## 🔌 ** Dry and wet Seperation System**
+- **ARDUINO NANO MICROCONTROLLER MODULE**  - 1 piece
+- **HC-SR04 ULTRASONIC SENSORS**  - 1 piece
+- **16*2 LCD WITH I2C**  - 1 piece
+- **SG90S SERVO MOTOR** - 1 PEICE
+- **SOIL MOISTURE SENSORS** - 1 PEICE
+- **BLUE LED** (DRY-GARBAGE) - 1 piece
+- **GREEN LED** (WET-GARBAGE) - 1 piece
+- **5 VOLT BUZZER** (HORN) - 1 piece
+- **3.7 VOLT LION BATTERY**  - 2 piece
+- **BATTERY HOLDER**  - 1 piece
+- **USB CABLE**  - 1 piece
+- **JUMPER WIRES**
+  - **MALE TO MALE**
+  - **MALE TO FEMALE**
+  - **FEMALE TO FEMALE**
 
 
 # 🚦 Usage
