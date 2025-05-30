@@ -44,7 +44,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 | **🦾 Robotic Arm Automation**<br>CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS. | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
 | **🌡️ Bluetooth Controlled Car**<br>Live soil/temperature/proximity monitoring | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
 | **📱 BLYNK IOT integrations**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
-| **🦾 Dry and wet Seperation System**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
+| **🦾 Dry and wet Seperation System**<br>SOIL MOISTURE SENSORS DETECT WET PLASTICS, ENSURING PERFECT SORTING FOR RECYCLING.| ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 
 
 # 🛠️ Hardware Components:-
