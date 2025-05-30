@@ -23,7 +23,7 @@ body {
     background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%);
 }
 
-.audio-controls {
+/*.audio-controls {
     position: fixed;
     top: 20px;
     right: 20px;
@@ -94,7 +94,7 @@ body {
 #volume-control::-webkit-slider-thumb:hover {
     background: #03a9f4;
     transform: scale(1.2);
-}
+}*/
 
 .slider-container {
     position: relative;
