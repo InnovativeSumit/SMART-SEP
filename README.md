@@ -50,36 +50,39 @@ The system’s vehicle base is designed for autonomous navigation within control
 ## 🛠️ Hardware Components:-
 
 ### 🔌 ** Bluetooth Controlled Car**
-- Jumper wires (20+)
-- 18650 Li-ion batteries (2+)
-- Breadboard/PCB for circuits
+- **ARDUINO NANO MICROCONTROLLER MODULE**  - 1 piece
+- **TT GEAR MOTORS (250 RPM)**  - 4 pieces  
+- **PLASTICS-WHEELS**  - 4 piece
+- **HC05-BLUETOOTH MODULE**  - 1 piece
+- **L298N MOTOR DRIVER** - 1 pieces
+- **3.7 VOLT LION BATTERY**  - 3 piece
+- **3.7 VOLT LION 3 BATTERY HOLDER**  - 1 piece
+- **JUMPIRES WIRES**
+  --**MALE TO MALE**
+  --**MALE TO FEMALE**
+  --**FEMALE TO FEMALE**
 
 ### 🚗 **AI Plastic Detection**
-*(For navigation and plastic detection)*
-- **ESP32 Microcontroller Module** (Main controller) - 1 piece
-- **Arduino Nano** (Motor/sensor control) - 3 pieces  
-- **ESP32-CAM Module** (AI plastic detection) - 1 piece
-- **FTDI Programmer** (For flashing) - 1 piece
-- **HC-SR04 Ultrasonic Sensors** (Obstacle detection) - 3 pieces
-- **L298N Motor Driver** (Wheel control) - 1 piece
+- **ESP32 Microcontroller Module**  - 1 piece
+- **Arduino Nano**  - 3 pieces  
+- **ESP32-CAM Module**  - 1 piece
+- **FTDI Programmer**  - 1 piece
+- **HC-SR04 Ultrasonic Sensors** - 3 pieces
+- **L298N Motor Driver**  - 1 piece
 
 ### 🦾 ** Robotic Arm Automation**
-*(For plastic sorting)*
-- **4-DOF Robotic Arm** (3D printed frame) - 1 piece
-- **MG996R Servo Motors** (4 required for 4-DOF movement)
-- **DHT11 Sensor** (Environment monitoring) - 1 piece
+- **4-DOF Robotic Arm**  - 1 piece
+- **MG996R Servo Motors** 
+- **DHT11 Sensor**  - 1 piece
 
 
 ### 🔌 ** BLYNK IOT integrations**
-- Jumper wires (20+)
-- 18650 Li-ion batteries (2+)
-- Breadboard/PCB for circuits
+
+
 
 
 ### 🔌 ** Dry and wet Seperation System**
-- Jumper wires (20+)
-- 18650 Li-ion batteries (2+)
-- Breadboard/PCB for circuits
+
 
 # 🚦 Usage
 
