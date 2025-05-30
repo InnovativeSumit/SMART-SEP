@@ -85,7 +85,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 - **CIRCUIT DIAGRAM & CODE** AAVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
     
 
-## 🦾 ** 4 DOF Robotic Arm Automation**
+## 🦾 **4 DOF Robotic Arm Automation**
 - **Robotic Arm**  - 3D PRINTED
 - **MG90S SERVO MOTOR** - 1 PEICE
 - **SG90S SERVO MOTOR** - 3 PEICE
@@ -102,7 +102,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 
 
-## 🔌 ** BLYNK IOT integrations**
+## 🔌 **BLYNK IOT integrations**
 - **ESP32 MICROCONTROLLER MODULE**  - 1 piece
 - **HC-SR04 ULTRASONIC SENSORS**  - 2 piece
 - **DHT11 TEMP & HUMIDITY SENSORS**  - 1 piece
@@ -117,7 +117,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 - **MOBILE APP:-** [BLYNK IOT](https://innovativesumit.github.io/SMART-SEP/)
 
 
-## 🔌 ** Dry and wet Seperation System**
+## 🔌 **Dry and wet Seperation System**
 - **ARDUINO NANO MICROCONTROLLER MODULE**  - 1 piece
 - **HC-SR04 ULTRASONIC SENSORS**  - 1 piece
 - **16*2 LCD WITH I2C**  - 1 piece
