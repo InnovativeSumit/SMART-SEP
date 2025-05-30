@@ -55,26 +55,43 @@ The system’s vehicle base is designed for autonomous navigation within control
 - **PLASTICS-WHEELS**  - 4 piece
 - **HC05-BLUETOOTH MODULE**  - 1 piece
 - **L298N MOTOR DRIVER** - 1 pieces
+- **YELLOW LED** (FRONT-LED) - 4 piece
+- **RED LED** (BACK-LED) - 4 piece
+- **5 VOLT BUZZER** (HORN) - 1 piece
 - **3.7 VOLT LION BATTERY**  - 3 piece
 - **BATTERY HOLDER**  - 1 piece
+- **USB CABLE**  - 1 piece
+- **JUMPER WIRES**
+  - **MALE TO MALE**
+  - **MALE TO FEMALE**
+  - **FEMALE TO FEMALE**
+- **CARDBOARD 7 PAINTS** 
+
+
+### 🚗 **AI Plastic Detection**
+- **ESP32 CAM MODULE**  - 1 piece
+- **FTDI**  - 3 pieces  
+- **3.7 VOLT LION BATTERY**  - 2 piece
+- **BATTERY HOLDER**  - 1 piece
+- **USB CABLE**  - 1 piece
 - **JUMPER WIRES**
   - **MALE TO MALE**
   - **MALE TO FEMALE**
   - **FEMALE TO FEMALE**
 
+### 🦾 ** 4 DOF Robotic Arm Automation**
+- **Robotic Arm**  - 3D PRINTED
+- **MG90S SERVO MOTOR** - 1 PEICE
+- **SG90S SERVO MOTOR** - 3 PEICE
+- **HC05-BLUETOOTH MODULE**  - 1 piece
+- **3.7 VOLT LION BATTERY**  - 2 piece
+- **BATTERY HOLDER**  - 1 piece
+- **USB CABLE**  - 1 piece
+- **JUMPER WIRES**
+  - **MALE TO MALE**
+  - **MALE TO FEMALE**
+  - **FEMALE TO FEMALE**
 
-### 🚗 **AI Plastic Detection**
-- **ESP32 Microcontroller Module**  - 1 piece
-- **Arduino Nano**  - 3 pieces  
-- **ESP32-CAM Module**  - 1 piece
-- **FTDI Programmer**  - 1 piece
-- **HC-SR04 Ultrasonic Sensors** - 3 pieces
-- **L298N Motor Driver**  - 1 piece
-
-### 🦾 ** Robotic Arm Automation**
-- **4-DOF Robotic Arm**  - 1 piece
-- **MG996R Servo Motors** 
-- **DHT11 Sensor**  - 1 piece
 
 
 ### 🔌 ** BLYNK IOT integrations**
