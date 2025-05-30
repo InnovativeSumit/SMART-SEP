@@ -133,7 +133,7 @@ The system’s vehicle base is designed for autonomous navigation within control
   - **MALE TO MALE**
   - **MALE TO FEMALE**
   - **FEMALE TO FEMALE**
-  - **CARDBOARD & PAINTS**
+- **CARDBOARD & PAINTS**
 - **CIRCUIT DIAGRAM & CODE** AVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
 
 
