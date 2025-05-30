@@ -42,10 +42,10 @@ The system’s vehicle base is designed for autonomous navigation within control
 |---------|---------|
 | **🤖 AI Plastic Detection**<br>ESP32-CAM + TensorFlow Lite model for real-time classification | ![AI Detection](https://source.unsplash.com/random/800x450/?ai,camera,plastic) |
 | **🦾 Robotic Arm Automation**<br>Precision sorting with 6 servo motors | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
-| **🌡️ Environmental Sensors**<br>Live soil/temperature/proximity monitoring | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
-| **📱 Web Dashboard**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
+| **🌡️ Bluetooth Controlled Car**<br>Live soil/temperature/proximity monitoring | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
+| **📱 BLYNK IOT integrations**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
+| **🦾 Dry and wet Seperation System **<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 
----
 
 ## 🛠️ Hardware Components  
 - **ESP32-CAM** (AI processing)  
