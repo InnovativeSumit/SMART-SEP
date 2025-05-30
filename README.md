@@ -41,7 +41,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 | Feature | Preview |
 |---------|---------|
 | **🤖 AI Plastic Detection**<br>ESP32-CAM + TensorFlow Lite model for real-time classification | ![AI Detection](https://source.unsplash.com/random/800x450/?ai,camera,plastic) |
-| **🦾 Robotic Arm Automation**<br>Precision sorting with 6 servo motors | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
+| **🦾 Robotic Arm Automation**<br>CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS. | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
 | **🌡️ Bluetooth Controlled Car**<br>Live soil/temperature/proximity monitoring | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
 | **📱 BLYNK IOT integrations**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 | **🦾 Dry and wet Seperation System**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
