@@ -47,9 +47,9 @@ The system’s vehicle base is designed for autonomous navigation within control
 | **🦾 Dry and wet Seperation System**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 
 
-## 🛠️ Hardware Components:-
+### 🛠️ Hardware Components:-
 
-### 🔌 ** Bluetooth Controlled Car**
+## 🔌 **Bluetooth Controlled Car**
 - **ARDUINO NANO MICROCONTROLLER MODULE**  - 1 piece
 - **TT GEAR MOTORS (250 RPM)**  - 4 pieces  
 - **PLASTICS-WHEELS**  - 4 piece
@@ -68,7 +68,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 - **CARDBOARD 7 PAINTS** 
 
 
-### 🚗 **AI Plastic Detection**
+## 🚗 **AI Plastic Detection**
 - **ESP32 CAM MODULE**  - 1 piece
 - **FTDI**  - 3 pieces  
 - **3.7 VOLT LION BATTERY**  - 2 piece
@@ -79,7 +79,7 @@ The system’s vehicle base is designed for autonomous navigation within control
   - **MALE TO FEMALE**
   - **FEMALE TO FEMALE**
 
-### 🦾 ** 4 DOF Robotic Arm Automation**
+## 🦾 ** 4 DOF Robotic Arm Automation**
 - **Robotic Arm**  - 3D PRINTED
 - **MG90S SERVO MOTOR** - 1 PEICE
 - **SG90S SERVO MOTOR** - 3 PEICE
@@ -94,12 +94,12 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 
 
-### 🔌 ** BLYNK IOT integrations**
+## 🔌 ** BLYNK IOT integrations**
 
 
 
 
-### 🔌 ** Dry and wet Seperation System**
+## 🔌 ** Dry and wet Seperation System**
 
 
 # 🚦 Usage
