@@ -48,15 +48,38 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 
 ## 🛠️ Hardware Components:-
-- **ESP32 MICROCONTROLLER MODULE** (1 PEICE)
-- **ARDUINO NANO** (3 PEICE)  
-- **ESP32-CAM-MODULE** (1 PEICE)
-- **FTDI** (1 PEICE) 
-- **4-DOF-ROBOTICS-ARM** (1 PEICES 3D PRINTED)  
- 
-- **DHT11 SENSORS** (1 PEICE)  
-- **HC-SR04 ULTRASONIC SESNSORS** (3 PEICE)  
-- **L298N** (Motor driver)  
+
+### 🔌 ** Bluetooth Controlled Car**
+- Jumper wires (20+)
+- 18650 Li-ion batteries (2+)
+- Breadboard/PCB for circuits
+
+### 🚗 **AI Plastic Detection**
+*(For navigation and plastic detection)*
+- **ESP32 Microcontroller Module** (Main controller) - 1 piece
+- **Arduino Nano** (Motor/sensor control) - 3 pieces  
+- **ESP32-CAM Module** (AI plastic detection) - 1 piece
+- **FTDI Programmer** (For flashing) - 1 piece
+- **HC-SR04 Ultrasonic Sensors** (Obstacle detection) - 3 pieces
+- **L298N Motor Driver** (Wheel control) - 1 piece
+
+### 🦾 ** Robotic Arm Automation**
+*(For plastic sorting)*
+- **4-DOF Robotic Arm** (3D printed frame) - 1 piece
+- **MG996R Servo Motors** (4 required for 4-DOF movement)
+- **DHT11 Sensor** (Environment monitoring) - 1 piece
+
+
+### 🔌 ** BLYNK IOT integrations**
+- Jumper wires (20+)
+- 18650 Li-ion batteries (2+)
+- Breadboard/PCB for circuits
+
+
+### 🔌 ** Dry and wet Seperation System**
+- Jumper wires (20+)
+- 18650 Li-ion batteries (2+)
+- Breadboard/PCB for circuits
 
 # 🚦 Usage
 
