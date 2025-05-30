@@ -6,12 +6,12 @@ Welcome to the **SMART AI-BASE PLASTIC SORTING ROBOT** project — an innovative
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/38dbcf54-2977-4512-95ec-7307f432b24c" alt="Sidebar Screenshot 1" width="1000" height="550" />
+      <img src="https://github.com/user-attachments/assets/38dbcf54-2977-4512-95ec-7307f432b24c" alt="Sidebar Screenshot 1" width="1000" height="650" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/3c0a24f9-bf1d-48fd-993d-5a07eb22f242" alt="Sidebar Screenshot 2" width="1000" height="550" />
+      <img src="https://github.com/user-attachments/assets/3c0a24f9-bf1d-48fd-993d-5a07eb22f242" alt="Sidebar Screenshot 2" width="1000" height="650" />
     </td>
   </tr>
 </table>
