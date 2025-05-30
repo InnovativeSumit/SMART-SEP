@@ -36,26 +36,24 @@ Environmental sensors such as soil moisture, temperature, and ultrasonic sensors
 The system’s vehicle base is designed for autonomous navigation within controlled environments, improving the reach and efficiency of plastic collection. The combination of sensor feedback, AI vision, and robotic control provides a scalable and sustainable approach to plastic waste management.
 
 
+## 🔥 Key Features  
 
-# 🔥 Features
+| Feature | Preview |
+|---------|---------|
+| **🤖 AI Plastic Detection**<br>ESP32-CAM + TensorFlow Lite model for real-time classification | ![AI Detection](https://source.unsplash.com/random/800x450/?ai,camera,plastic) |
+| **🦾 Robotic Arm Automation**<br>Precision sorting with 6 servo motors | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
+| **🌡️ Environmental Sensors**<br>Live soil/temperature/proximity monitoring | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
+| **📱 Web Dashboard**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 
-- **AI-Powered Plastic Detection:** Utilizes ESP32-CAM and a custom-trained machine learning model to accurately identify plastic types under different lighting and environmental conditions.
+---
 
-- **Robotic Arm Automation:** 6-DOF servo motor robotic arm capable of precise sorting and handling of plastics, reducing human involvement and increasing efficiency.
-
-- **Real-Time Environmental Monitoring:** Continuous tracking of temperature, soil moisture, and proximity to optimize operations and maintain system health.
-
-- **Bluetooth and IoT Connectivity:** Enables remote control, status updates, and data visualization on a responsive web interface.
-
-- **User-Friendly Web Dashboard:** Interactive and intuitive dashboard that displays live sensor data, plastic detection results, and allows control of the vehicle and robotic arm.
-
-- **Autonomous Navigation:** Vehicle capable of moving along preset routes to locate and collect plastics, enhancing the overall system automation.
-
-- **Volume and Audio Controls:** Integrated audio feedback system with volume controls for enhanced user interaction.
-
-- **Responsive and Animated UI:** Smooth transitions, particle effects, and animated sliders create an engaging user experience.
-
-
+## 🛠️ Hardware Components  
+- **ESP32-CAM** (AI processing)  
+- **6-DOF Robotic Arm** (MG996R servos)  
+- **Arduino Mega** (Motor control)  
+- **DHT11 Sensor** (Temperature/Humidity)  
+- **HC-SR04** (Proximity sensor)  
+- **L298N** (Motor driver)  
 
 # 🚦 Usage
 
