@@ -49,7 +49,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 # 🛠️ Hardware Components:-
 
-## 🔌 **Bluetooth Controlled Car**
+### 🔌 **Bluetooth Controlled Car**
 - **ARDUINO NANO MICROCONTROLLER MODULE**  - 1 piece
 - **TT GEAR MOTORS (250 RPM)**  - 4 pieces  
 - **PLASTICS-WHEELS**  - 4 piece
