@@ -67,7 +67,7 @@ The system’s vehicle base is designed for autonomous navigation within control
   - **FEMALE TO FEMALE**
 - **CARDBOARD & PAINTS**
 - **CIRCUIT DIAGRAM & CODE** AVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
--  **MOBILE APP**[ARDUINO CAR](https://innovativesumit.github.io/SMART-SEP/)
+-  **MOBILE APP:-** [ARDUINO CAR](https://innovativesumit.github.io/SMART-SEP/)
 
 
 
@@ -98,7 +98,7 @@ The system’s vehicle base is designed for autonomous navigation within control
   - **MALE TO FEMALE**
   - **FEMALE TO FEMALE**
 - **CIRCUIT DIAGRAM & CODE** AVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
-- **MOBILE APP**[ARDUINO SERVO CONTROLLER](https://innovativesumit.github.io/SMART-SEP/)
+- **MOBILE APP:-** [ARDUINO SERVO CONTROLLER](https://innovativesumit.github.io/SMART-SEP/)
 
 
 
@@ -114,7 +114,7 @@ The system’s vehicle base is designed for autonomous navigation within control
   - **MALE TO FEMALE**
   - **FEMALE TO FEMALE**
 - **CIRCUIT DIAGRAM & CODE** AVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
-- **MOBILE APP**[BLYNK IOT](https://innovativesumit.github.io/SMART-SEP/)
+- **MOBILE APP:-** [BLYNK IOT](https://innovativesumit.github.io/SMART-SEP/)
 
 
 ## 🔌 ** Dry and wet Seperation System**
