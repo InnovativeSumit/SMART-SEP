@@ -47,7 +47,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 | **🦾 Dry and wet Seperation System**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 
 
-### 🛠️ Hardware Components:-
+# 🛠️ Hardware Components:-
 
 ## 🔌 **Bluetooth Controlled Car**
 - **ARDUINO NANO MICROCONTROLLER MODULE**  - 1 piece
