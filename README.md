@@ -43,7 +43,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 | **🤖 AI Plastic Detection**<br>DISCOVER OUR CUTTING-EDGE CAMERA SYSTEMS WITH UNPARALLELED RESOLUTION AND LOW-LIGHT PERFORMANCE FOR PROFESSIONAL APPLICATIONS.| ![AI Detection](https://source.unsplash.com/random/800x450/?ai,camera,plastic) |
 | **🦾 Robotic Arm Automation**<br>CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS. | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
 | **🌡️ Bluetooth Controlled Car**<br>Live soil/temperature/proximity monitoring | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
-| **📱 BLYNK IOT integrations**<br>Real-time control and data visualization | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
+| **📱 BLYNK IOT integrations**<br>TRASONIC SENSORS + DHT11 MONITOR FILL LEVELS AND ENVIRONMENTAL CONDITIONS, SENDING DATA VIA IOT. | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 | **🦾 Dry and wet Seperation System**<br>SOIL MOISTURE SENSORS DETECT WET PLASTICS, ENSURING PERFECT SORTING FOR RECYCLING.| ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
 
 
