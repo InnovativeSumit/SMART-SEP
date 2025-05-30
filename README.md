@@ -56,11 +56,12 @@ The system’s vehicle base is designed for autonomous navigation within control
 - **HC05-BLUETOOTH MODULE**  - 1 piece
 - **L298N MOTOR DRIVER** - 1 pieces
 - **3.7 VOLT LION BATTERY**  - 3 piece
-- **3.7 VOLT LION 3 BATTERY HOLDER**  - 1 piece
-- **JUMPIRES WIRES**
-  --**MALE TO MALE**
-  --**MALE TO FEMALE**
-  --**FEMALE TO FEMALE**
+- **BATTERY HOLDER**  - 1 piece
+- **JUMPER WIRES**
+  - **MALE TO MALE**
+  - **MALE TO FEMALE**
+  - **FEMALE TO FEMALE**
+
 
 ### 🚗 **AI Plastic Detection**
 - **ESP32 Microcontroller Module**  - 1 piece
