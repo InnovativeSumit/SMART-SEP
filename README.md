@@ -40,7 +40,8 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 | Feature | Preview |
 |---------|---------|
-| **🤖 AI PLASTICS DETECTIONS**<br>DISCOVER OUR CUTTING-EDGE CAMERA SYSTEMS WITH UNPARALLELED RESOLUTION AND LOW-LIGHT PERFORMANCE FOR PROFESSIONAL APPLICATIONS.| ![AI Detection](https://source.unsplash.com/random/800x450/?ai,camera,plastic) |
+| **🤖 AI PLASTICS DETECTIONS**<br>DISCOVER OUR CUTTING-EDGE CAMERA SYSTEMS WITH UNPARALLELED RESOLUTION AND LOW-LIGHT PERFORMANCE FOR PROFESSIONAL APPLICATIONS.| ![AI Detection](https://github.com/user-attachments/assets/89b5ea09-68f2-4eaa-8a23-f9b94085c78e)
+) |
 | **🦾 4-DOF-ROBOTICS-ARM-AUTOMATIONS**<br>CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS. | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
 | **🌡️ BLUETOOTH CONTROLLED CAR**<br>BLUETOOTH-CONTROLLED, SELF-SORTING SMART CAR! | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
 | **📱 BLYNK IOT INTEGRATIONS**<br>TRASONIC SENSORS + DHT11 MONITOR FILL LEVELS AND ENVIRONMENTAL CONDITIONS, SENDING DATA VIA IOT. | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
