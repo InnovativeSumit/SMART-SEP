@@ -140,7 +140,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 <table>
   <tr>
     <td>
-      <img src="![WhatsApp Image 2025-05-31 at 10 47 04_b79a22ec]https://github.com/user-attachments/assets/49994a1c-9ad2-44f2-b1f7-0f8a338b1976" alt="Sidebar Screenshot 1" width="1000" height="550" />
+      <img src="https://github.com/user-attachments/assets/49994a1c-9ad2-44f2-b1f7-0f8a338b1976" alt="Sidebar Screenshot 1" width="1000" height="550" />
     </td>
   </tr>
 </table>
