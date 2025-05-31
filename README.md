@@ -74,7 +74,7 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 ### 🚗 **AI Plastic Detection**
 - **ESP32 CAM MODULE**  - 1 piece
-- **FTDI**  - 3 pieces
+- **FTDI**  - 1 pieces
 - **OLED DISPLAY**  - 1 pieces 
 - **3.7 VOLT LION BATTERY**  - 2 piece
 - **BATTERY HOLDER**  - 1 piece
