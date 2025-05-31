@@ -82,7 +82,7 @@ The system’s vehicle base is designed for autonomous navigation within control
   - **MALE TO MALE**
   - **MALE TO FEMALE**
   - **FEMALE TO FEMALE**
-- **CIRCUIT DIAGRAM & CODE** AAVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
+- **CIRCUIT DIAGRAM & CODE** AAVAILABLE IN OUR SITE :-[SMART-SEP](https://play.google.com/store/apps/details?id=appinventor.ai_spiridakis84.car_testV)
     
 
 ### 🦾 **4 DOF Robotic Arm Automation**
@@ -98,7 +98,7 @@ The system’s vehicle base is designed for autonomous navigation within control
   - **MALE TO FEMALE**
   - **FEMALE TO FEMALE**
 - **CIRCUIT DIAGRAM & CODE** AVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
-- **MOBILE APP:-** [ARDUINO SERVO CONTROLLER](https://innovativesumit.github.io/SMART-SEP/)
+- **MOBILE APP:-** [ARDUINO SERVO CONTROLLER](https://play.google.com/store/apps/details?id=com.arduinoservocontrols)
 
 
 
@@ -114,7 +114,7 @@ The system’s vehicle base is designed for autonomous navigation within control
   - **MALE TO FEMALE**
   - **FEMALE TO FEMALE**
 - **CIRCUIT DIAGRAM & CODE** AVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
-- **MOBILE APP:-** [BLYNK IOT](https://innovativesumit.github.io/SMART-SEP/)
+- **MOBILE APP:-** [BLYNK IOT](https://play.google.com/store/apps/details?id=cloud.blynk)
 
 
 ### 🔌 **Dry and wet Seperation System**
