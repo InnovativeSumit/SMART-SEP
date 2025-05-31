@@ -88,8 +88,8 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 ### 🦾 **4 DOF Robotic Arm Automation**
 - **Robotic Arm**  - 3D PRINTED
-- **MG90S SERVO MOTOR** - 1 PEICE
-- **SG90S SERVO MOTOR** - 3 PEICE
+- **MG90S SERVO MOTOR** - 1 piece
+- **SG90S SERVO MOTOR** - 3 piece
 - **HC05-BLUETOOTH MODULE**  - 1 piece
 - **3.7 VOLT LION BATTERY**  - 2 piece
 - **BATTERY HOLDER**  - 1 piece
@@ -122,8 +122,8 @@ The system’s vehicle base is designed for autonomous navigation within control
 - **ARDUINO NANO MICROCONTROLLER MODULE**  - 1 piece
 - **HC-SR04 ULTRASONIC SENSORS**  - 1 piece
 - **16*2 LCD WITH I2C**  - 1 piece
-- **SG90S SERVO MOTOR** - 1 PEICE
-- **SOIL MOISTURE SENSORS** - 1 PEICE
+- **SG90S SERVO MOTOR** - 1 piece
+- **SOIL MOISTURE SENSORS** - 1 piece
 - **BLUE LED** (DRY-GARBAGE) - 1 piece
 - **GREEN LED** (WET-GARBAGE) - 1 piece
 - **5 VOLT BUZZER** (HORN) - 1 piece
