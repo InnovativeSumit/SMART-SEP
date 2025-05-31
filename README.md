@@ -136,6 +136,16 @@ The system’s vehicle base is designed for autonomous navigation within control
 - **CARDBOARD & PAINTS**
 - **CIRCUIT DIAGRAM & CODE** AVAILABLE IN OUR SITE :-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
 
+# ✨ ALGORITHOMS & FLOWCHARTS
+<table>
+  <tr>
+    <td>
+      <img src="![WhatsApp Image 2025-05-31 at 10 47 04_15e6a293](https://github.com/user-attachments/assets/ec9a8ef5-1448-433c-9228-c9b081912ab5)" alt="Sidebar Screenshot 1" width="1000" height="550" />
+    </td>
+  </tr>
+</table>
+
+
 
 # 🚦 Usage
 
