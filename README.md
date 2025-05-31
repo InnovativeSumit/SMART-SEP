@@ -40,12 +40,11 @@ The system’s vehicle base is designed for autonomous navigation within control
 
 | Feature | Preview |
 |---------|---------|
-| **🤖 AI PLASTICS DETECTIONS**<br>DISCOVER OUR CUTTING-EDGE CAMERA SYSTEMS WITH UNPARALLELED RESOLUTION AND LOW-LIGHT PERFORMANCE FOR PROFESSIONAL APPLICATIONS.| ![AI Detection](https://github.com/user-attachments/assets/89b5ea09-68f2-4eaa-8a23-f9b94085c78e)
-) |
-| **🦾 4-DOF-ROBOTICS-ARM-AUTOMATIONS**<br>CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS. | ![Robotic Arm](https://source.unsplash.com/random/800x450/?robotic+arm,recycling) |
-| **🌡️ BLUETOOTH CONTROLLED CAR**<br>BLUETOOTH-CONTROLLED, SELF-SORTING SMART CAR! | ![Sensors](https://source.unsplash.com/random/800x450/?iot,sensors,environment) |
-| **📱 BLYNK IOT INTEGRATIONS**<br>TRASONIC SENSORS + DHT11 MONITOR FILL LEVELS AND ENVIRONMENTAL CONDITIONS, SENDING DATA VIA IOT. | ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
-| **🦾 DRY & WET SEPERATIONS SYSTEMS**<br>SOIL MOISTURE SENSORS DETECT WET PLASTICS, ENSURING PERFECT SORTING FOR RECYCLING.| ![Dashboard](https://source.unsplash.com/random/800x450/?dashboard,ui,analytics) |
+| **🤖 AI PLASTICS DETECTIONS**<br>DISCOVER OUR CUTTING-EDGE CAMERA SYSTEMS WITH UNPARALLELED RESOLUTION AND LOW-LIGHT PERFORMANCE FOR PROFESSIONAL APPLICATIONS.| ![AI Detection](https://github.com/user-attachments/assets/89b5ea09-68f2-4eaa-8a23-f9b94085c78e) |
+| **🦾 4-DOF-ROBOTICS-ARM-AUTOMATIONS**<br>CONTROLLED VIA BLUETOOTH, THE ARM PRECISELY PICKS AND SEPARATES PLASTICS INTO DESIGNATED CONTAINERS. | ![Robotic Arm](https://github.com/user-attachments/assets/6be79607-1fca-44dc-b72c-a23614da1c04) |
+| **🌡️ BLUETOOTH CONTROLLED CAR**<br>BLUETOOTH-CONTROLLED, SELF-SORTING SMART CAR! | ![Sensors](https://github.com/user-attachments/assets/337e15a4-1612-4dbb-a30a-cb3250e5e2f7) |
+| **📱 BLYNK IOT INTEGRATIONS**<br>TRASONIC SENSORS + DHT11 MONITOR FILL LEVELS AND ENVIRONMENTAL CONDITIONS, SENDING DATA VIA IOT. | ![Dashboard](https://github.com/user-attachments/assets/e4101b7e-148d-43b0-ac7c-1ecd3ab849e5) |
+| **🦾 DRY & WET SEPERATIONS SYSTEMS**<br>SOIL MOISTURE SENSORS DETECT WET PLASTICS, ENSURING PERFECT SORTING FOR RECYCLING.| ![CONTAINER](https://github.com/user-attachments/assets/7d771303-b664-49f7-a2da-298a852b8a10) |
 
 
 # 🛠️ Hardware Components:-
