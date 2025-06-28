@@ -23,7 +23,7 @@ Welcome to the **SMART AI-BASE PLASTIC SORTING ROBOT** project — an innovative
 
 For a live demonstration, detailed project documentation, and to explore related resources, visit my website:
 
-[SMART-SEP](https://innovativesumit.github.io/SMART-SEP/)
+[SMART-SEP](https://smart-sep.netlify.app/)
 
 
 
